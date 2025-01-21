@@ -29,7 +29,11 @@
 				"C:/Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Obstacles/BP_DebuffSpeed.uasset",
 				"C:/Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/M_DebuffSpeed.uasset",
 				"C:/Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Obstacles/BP_BuffSpeed.uasset",
-				"C:/Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/M_BuffSpeed.uasset"
+				"C:/Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/M_BuffSpeed.uasset",
+				"C:/Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Inputs/IMC_AfterPollution.uasset",
+				"C:/Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/MI_Death.uasset",
+				"C:/Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/MI_PollutionCloud.uasset",
+				"C:/Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Obstacles/BP_PollutionCLoud.uasset"
 			]
 		}
 	]

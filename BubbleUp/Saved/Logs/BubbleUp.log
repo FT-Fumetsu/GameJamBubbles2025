@@ -9179,3 +9179,922 @@ Sampler Limit: 32
 [2025.01.21-15.24.50:172][420]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9978.651367
 [2025.01.21-15.24.51:172][423]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.01.21-15.24.51:172][423]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9979.319336, Update Interval: 317.435822
+[2025.01.21-15.30.55:086][787]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.30.55:086][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.30.55:776][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.21-15.30.57:959][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10346.435547
+[2025.01.21-15.30.58:191][909]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.21-15.30.58:191][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10346.653320, Update Interval: 304.026611
+[2025.01.21-15.30.59:156][953]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.30.59:156][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.30.59:165][953]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.30.59:165][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.30.59:347][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.01.21-15.31.02:846][158]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.21-15.31.02:846][158]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.31.02:846][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.31.03:332][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.21-15.31.05:588][289]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.21-15.31.05:588][289]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.31.05:588][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.31.05:768][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.21-15.31.06:731][345]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.31.06:731][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.31.06:844][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.21-15.31.07:600][386]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.21-15.31.07:601][386]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.31.07:601][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.31.07:681][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.01.21-15.31.08:665][439]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.01.21-15.31.08:665][439]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.31.08:665][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.31.08:731][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.01.21-15.32.30:830][958]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.01.21-15.32.30:830][958]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2025.01.21-15.32.30:858][958]LogChaosDD: Creating Chaos Debug Draw Scene for world map_test
+[2025.01.21-15.32.30:861][958]LogObjectTools: Deleting 1 worlds: /Game/ajeter/map_test.map_test
+[2025.01.21-15.32.30:861][958]LogObjectTools: Currently 20 active worlds: /Game/ProtoDev/Maps/Prototype.Prototype, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_28, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_31, /Engine/Transient.World_33
+[2025.01.21-15.32.30:885][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.21-15.32.31:846][958]LogSlate: Window 'Delete Assets' being destroyed
+[2025.01.21-15.32.31:852][958]LogWorld: UWorld::CleanupWorld for map_test, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.32.31:853][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.32.31:896][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.21-15.32.31:919][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.21-15.32.31:942][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.21-15.32.36:569][213]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.01.21-15.32.36:616][213]LogContentBrowser: Creating deferred item: NewFolder
+[2025.01.21-15.32.36:628][214]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.01.21-15.32.37:458][264]LogDerivedDataCache: C:/Users/perso/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.01.21-15.32.42:020][538]LogContentBrowser: Attempting asset rename: NewFolder -> IA
+[2025.01.21-15.32.42:021][538]LogContentBrowser: End creating deferred item NewFolder
+[2025.01.21-15.32.48:683][936]LogContentBrowser: Attempting asset rename: IA -> Inputs
+[2025.01.21-15.32.54:866][263]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.01.21-15.32.54:873][263]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.01.21-15.32.54:920][265]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.01.21-15.33.22:671][926]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_AfterPollution
+[2025.01.21-15.33.22:673][926]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.01.21-15.33.24:205][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-15.33.24:330][ 16]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ProtoDev/Inputs/IMC_AfterPollution] ([1] browsable assets)...
+[2025.01.21-15.33.24:331][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Inputs/IMC_AfterPollution]
+[2025.01.21-15.33.24:332][ 16]LogSavePackage: Moving output files for package: /Game/ProtoDev/Inputs/IMC_AfterPollution
+[2025.01.21-15.33.24:332][ 16]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/IMC_AfterPollution1787F507410E8D209BB963B8DE87ED7D.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Inputs/IMC_AfterPollution.uasset'
+[2025.01.21-15.33.24:346][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.807 ms (total: 14.1 sec)
+[2025.01.21-15.33.24:494][ 16]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.21-15.33.24:494][ 16]LogContentValidation: Enabled validators:
+[2025.01.21-15.33.24:494][ 16]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-15.33.24:494][ 16]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-15.33.24:494][ 16]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-15.33.24:494][ 16]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-15.33.24:494][ 16]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-15.33.24:494][ 16]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-15.33.24:494][ 16]AssetCheck: /Game/ProtoDev/Inputs/IMC_AfterPollution Validating asset
+[2025.01.21-15.35.58:578][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.01.21-15.36.38:227][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.21-15.36.55:352][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10703.687500
+[2025.01.21-15.36.55:518][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.21-15.36.55:518][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10703.835938, Update Interval: 355.693237
+[2025.01.21-15.37.26:693][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.01.21-15.37.26:702][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProtoDev/Maps/Prototype' took 0.031
+[2025.01.21-15.37.26:703][384]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ProtoDev/Character/BP_BubbleCharacter] ([2] browsable assets)...
+[2025.01.21-15.37.26:728][384]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ProtoDev/Character/BP_BubbleCharacter.BP_BubbleCharacter]
+[2025.01.21-15.37.26:728][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Character/BP_BubbleCharacter]
+[2025.01.21-15.37.26:736][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ProtoDev/Character/BP_BubbleCharacter_Auto9
+[2025.01.21-15.37.26:736][384]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/BP_BubbleCharacter_Auto91D02A9E5491FB2F0F910988C53BD3D76.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/Autosaves/Game/ProtoDev/Character/BP_BubbleCharacter_Auto9.uasset'
+[2025.01.21-15.37.26:737][384]LogFileHelpers: Auto-saving content packages took 0.035
+[2025.01.21-15.41.40:283][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.21-15.41.40:291][ 41]LogPlayLevel: [PlayLevel] Compiling BP_BubbleCharacter before play...
+[2025.01.21-15.41.40:360][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.21-15.41.40:374][ 41]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2025.01.21-15.41.40:374][ 41]LogPlayLevel: Display: Creating online subsystem for client :Context_99
+[2025.01.21-15.41.40:377][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2025.01.21-15.41.40:405][ 42]LogPlayLevel: Creating play world package: /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-15.41.40:408][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002596s)
+[2025.01.21-15.41.40:408][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProtoDev/Maps/Prototype.Prototype to /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype (0.002649s)
+[2025.01.21-15.41.40:431][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.21-15.41.40:436][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world Prototype
+[2025.01.21-15.41.40:437][ 42]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2025.01.21-15.41.40:439][ 42]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2025.01.21-15.41.40:439][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.21-15.41.40:439][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.21-15.41.40:439][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.21-15.41.40:439][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.21-15.41.40:439][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.21-15.41.40:439][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.21-15.41.40:439][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.21-15.41.40:439][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.21-15.41.40:439][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.21-15.41.40:439][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.21-15.41.40:439][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.21-15.41.40:442][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.21-15.41.40:582][ 42]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.01.21-15.41.40:583][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.21-15.41.40:583][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.21-15.41.40:584][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.21-15.41.40:584][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2025.01.21-15.41.40:584][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2025.01.21-15.41.40:586][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2025.01.21-15.41.40:586][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2025.01.21-15.41.40:586][ 42]LogInit: FAudioDevice initialized with ID 70.
+[2025.01.21-15.41.40:586][ 42]LogAudio: Display: Audio Device (ID: 70) registered with world 'Prototype'.
+[2025.01.21-15.41.40:586][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2025.01.21-15.41.40:591][ 42]LogLoad: Game class is 'GM_Bubble_C'
+[2025.01.21-15.41.40:593][ 42]LogWorld: Bringing World /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 60) at 2025.01.21-16.41.40
+[2025.01.21-15.41.40:593][ 42]LogWorld: Bringing up level for play took: 0.000917
+[2025.01.21-15.41.40:596][ 42]PIE: Server logged in
+[2025.01.21-15.41.40:597][ 42]PIE: Play in editor total start time 0,309 seconds.
+[2025.01.21-15.41.46:273][380]LogBlueprintUserMessages: [BP_BubbleCharacter_C_0] 1.0
+[2025.01.21-15.41.46:275][380]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.41.46:920][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-15.41.46:920][417]LogWorld: BeginTearingDown for /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-15.41.46:920][417]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.41.46:920][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.41.46:925][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.21-15.41.46:929][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.41.46:949][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-15.41.46:949][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2025.01.21-15.41.46:949][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.01.21-15.41.46:951][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.01.21-15.41.46:960][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.01.21-15.41.47:024][418]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2025.01.21-15.42.24:885][683]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ProtoDev/Material/M_BuffSpeed.M_BuffSpeed
+[2025.01.21-15.42.24:889][683]LogChaosDD: Creating Chaos Debug Draw Scene for world World_34
+[2025.01.21-15.42.25:301][683]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.42.25:301][683]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.25:301][683]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.42.25:301][683]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.21-15.42.25:363][685]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.21-15.42.25:363][685]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.21-15.42.25:363][685]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.21-15.42.25:363][685]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.25:363][685]MaterialEditorStats: Shader Count: 5
+[2025.01.21-15.42.25:363][685]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.21-15.42.29:996][792]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.21-15.42.38:708][296]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.42.38:709][296]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.38:709][296]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.42.38:709][296]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.42.40:627][407]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.42.40:627][407]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.42.40:627][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.40:627][407]MaterialEditorStats: Shader Count: 3
+[2025.01.21-15.42.40:627][407]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.42.45:999][728]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.42.45:999][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.45:999][728]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.42.45:999][728]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.42.46:562][762]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.42.46:562][762]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.42.46:562][762]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.46:562][762]MaterialEditorStats: Shader Count: 3
+[2025.01.21-15.42.46:562][762]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.42.49:732][951]LogMaterialEditor: Saving and Compiling material M_BuffSpeed
+[2025.01.21-15.42.49:901][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.21-15.42.51:359][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.01.21-15.42.51:374][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-15.42.51:537][951]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProtoDev/Material/M_BuffSpeed] ([1] browsable assets)...
+[2025.01.21-15.42.51:549][951]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ProtoDev/Material/M_BuffSpeed.M_BuffSpeed]
+[2025.01.21-15.42.51:549][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Material/M_BuffSpeed]
+[2025.01.21-15.42.51:549][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProtoDev/Material/M_BuffSpeed" FILE="../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/M_BuffSpeed.uasset" SILENT=true
+[2025.01.21-15.42.51:550][951]LogSavePackage: Moving output files for package: /Game/ProtoDev/Material/M_BuffSpeed
+[2025.01.21-15.42.51:551][951]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/M_BuffSpeed960ADFBA4C5309DAB9E208A4FD4A326A.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/M_BuffSpeed.uasset'
+[2025.01.21-15.42.51:562][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.253 ms (total: 14.2 sec)
+[2025.01.21-15.42.51:724][951]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.21-15.42.51:724][951]LogContentValidation: Enabled validators:
+[2025.01.21-15.42.51:724][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-15.42.51:724][951]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-15.42.51:724][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-15.42.51:724][951]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-15.42.51:724][951]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-15.42.51:724][951]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-15.42.51:724][951]AssetCheck: /Game/ProtoDev/Material/M_BuffSpeed Validating asset
+[2025.01.21-15.42.51:737][951]MaterialEditorStats: Base pass shader: 220 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.21-15.42.51:738][951]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.42.51:738][951]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.42.51:738][951]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.51:738][951]MaterialEditorStats: Shader Count: 13
+[2025.01.21-15.42.51:738][951]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.42.54:610][120]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ProtoDev/Material/M_DebuffSpeed.M_DebuffSpeed
+[2025.01.21-15.42.54:612][120]LogChaosDD: Creating Chaos Debug Draw Scene for world World_35
+[2025.01.21-15.42.54:882][120]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.42.54:882][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.54:882][120]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.42.54:882][120]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.21-15.42.54:940][122]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.21-15.42.54:940][122]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.01.21-15.42.54:940][122]MaterialEditorStats: Texture samplers: 1/16
+[2025.01.21-15.42.54:940][122]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.54:940][122]MaterialEditorStats: Shader Count: 5
+[2025.01.21-15.42.54:940][122]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.01.21-15.42.57:677][280]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.42.57:677][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.57:677][280]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.42.57:677][280]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.42.58:284][315]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.42.58:284][315]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.42.58:284][315]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.42.58:284][315]MaterialEditorStats: Shader Count: 3
+[2025.01.21-15.42.58:284][315]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.43.02:384][384]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.21-15.43.02:394][384]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.43.02:395][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.43.02:395][384]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.43.02:395][384]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.43.02:967][417]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.43.02:967][417]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.43.02:968][417]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.43.02:968][417]MaterialEditorStats: Shader Count: 3
+[2025.01.21-15.43.02:968][417]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.43.06:671][636]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.43.06:671][636]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.43.06:671][636]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.43.06:671][636]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.43.07:231][669]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.43.07:231][669]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.43.07:231][669]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.43.07:231][669]MaterialEditorStats: Shader Count: 3
+[2025.01.21-15.43.07:231][669]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.43.08:046][718]LogMaterialEditor: Applying material M_DebuffSpeed
+[2025.01.21-15.43.08:167][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.21-15.43.09:518][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.21-15.43.09:535][718]MaterialEditorStats: Base pass shader: 220 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.21-15.43.09:535][718]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.43.09:535][718]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.43.09:535][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.43.09:535][718]MaterialEditorStats: Shader Count: 13
+[2025.01.21-15.43.09:535][718]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.43.20:564][352]LogContentBrowser: Deferred new asset file creation: M_BuffSpeed_Inst
+[2025.01.21-15.43.20:575][352]LogContentBrowser: Creating deferred item: M_BuffSpeed_Inst
+[2025.01.21-15.43.20:610][353]LogContentBrowser: Renaming the item being created (Deferred Item: M_BuffSpeed_Inst).
+[2025.01.21-15.43.28:271][811]LogContentBrowser: Attempting asset rename: M_BuffSpeed_Inst -> MI_Death
+[2025.01.21-15.43.28:283][811]LogContentBrowser: End creating deferred item M_BuffSpeed_Inst
+[2025.01.21-15.43.30:860][958]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ProtoDev/Material/MI_Death.MI_Death
+[2025.01.21-15.43.30:868][958]LogChaosDD: Creating Chaos Debug Draw Scene for world World_36
+[2025.01.21-15.43.37:533][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11105.412109
+[2025.01.21-15.43.37:703][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.21-15.43.37:703][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11105.562500, Update Interval: 325.106354
+[2025.01.21-15.43.46:541][668]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.21-15.43.56:369][778]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.43.56:369][778]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.43.56:369][778]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.43.56:369][778]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.43.58:441][899]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.43.58:441][899]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.43.58:441][899]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.43.58:441][899]MaterialEditorStats: Shader Count: 3
+[2025.01.21-15.43.58:441][899]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.01.21-15.44.00:106][986]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.44.00:106][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.44.00:106][986]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.44.00:106][986]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.01.21-15.44.00:694][ 20]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.44.00:694][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.44.00:694][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.44.00:694][ 20]MaterialEditorStats: Shader Count: 3
+[2025.01.21-15.44.00:694][ 20]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.01.21-15.44.12:678][481]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.21-15.44.12:691][481]MaterialEditorStats: Texture samplers: 0/16
+[2025.01.21-15.44.12:691][481]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.44.12:691][481]MaterialEditorStats: Shader Count: 0
+[2025.01.21-15.44.12:691][481]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.01.21-15.44.12:759][484]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.44.12:759][484]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.44.12:759][484]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.44.12:759][484]MaterialEditorStats: Shader Count: 5
+[2025.01.21-15.44.12:759][484]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.01.21-15.44.15:212][631]LogMaterialEditor: Applying material M_BuffSpeed
+[2025.01.21-15.44.15:431][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.21-15.44.16:779][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.21-15.44.16:807][631]MaterialEditorStats: Base pass shader: 229 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.01.21-15.44.16:807][631]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.01.21-15.44.16:807][631]MaterialEditorStats: Texture samplers: 2/16
+[2025.01.21-15.44.16:807][631]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.01.21-15.44.16:807][631]MaterialEditorStats: Shader Count: 13
+[2025.01.21-15.44.16:807][631]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2025.01.21-15.44.17:512][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.01.21-15.44.17:519][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-15.44.17:622][671]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ProtoDev/Character/BP_BubbleCharacter] ([2] browsable assets)...
+[2025.01.21-15.44.17:628][671]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ProtoDev/Character/BP_BubbleCharacter.BP_BubbleCharacter]
+[2025.01.21-15.44.17:628][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Character/BP_BubbleCharacter]
+[2025.01.21-15.44.17:638][671]LogSavePackage: Moving output files for package: /Game/ProtoDev/Character/BP_BubbleCharacter
+[2025.01.21-15.44.17:639][671]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/BP_BubbleCharacterB0E0B6624E0F15EC568656AAB28217BB.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Character/BP_BubbleCharacter.uasset'
+[2025.01.21-15.44.17:640][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProtoDev/Material/M_DebuffSpeed] ([1] browsable assets)...
+[2025.01.21-15.44.17:646][671]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ProtoDev/Material/M_DebuffSpeed.M_DebuffSpeed]
+[2025.01.21-15.44.17:646][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Material/M_DebuffSpeed]
+[2025.01.21-15.44.17:646][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProtoDev/Material/M_DebuffSpeed" FILE="../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/M_DebuffSpeed.uasset" SILENT=true
+[2025.01.21-15.44.17:648][671]LogSavePackage: Moving output files for package: /Game/ProtoDev/Material/M_DebuffSpeed
+[2025.01.21-15.44.17:649][671]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/M_DebuffSpeed56C01E8C425087E9A40EB09373AD5509.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/M_DebuffSpeed.uasset'
+[2025.01.21-15.44.17:650][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProtoDev/Material/M_BuffSpeed] ([1] browsable assets)...
+[2025.01.21-15.44.17:655][671]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ProtoDev/Material/M_BuffSpeed.M_BuffSpeed]
+[2025.01.21-15.44.17:656][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Material/M_BuffSpeed]
+[2025.01.21-15.44.17:656][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProtoDev/Material/M_BuffSpeed" FILE="../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/M_BuffSpeed.uasset" SILENT=true
+[2025.01.21-15.44.17:658][671]LogSavePackage: Moving output files for package: /Game/ProtoDev/Material/M_BuffSpeed
+[2025.01.21-15.44.17:658][671]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/M_BuffSpeed4C71EA09409C895D6D0B4C82804C38FE.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/M_BuffSpeed.uasset'
+[2025.01.21-15.44.17:660][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProtoDev/Material/MI_Death] ([1] browsable assets)...
+[2025.01.21-15.44.17:666][671]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ProtoDev/Material/MI_Death.MI_Death]
+[2025.01.21-15.44.17:666][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Material/MI_Death]
+[2025.01.21-15.44.17:666][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProtoDev/Material/MI_Death" FILE="../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/MI_Death.uasset" SILENT=true
+[2025.01.21-15.44.17:685][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.21-15.44.17:710][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.21-15.44.17:715][671]LogSavePackage: Moving output files for package: /Game/ProtoDev/Material/MI_Death
+[2025.01.21-15.44.17:715][671]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/MI_DeathB675786B4BF3BBB7C94D0390683DF141.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/MI_Death.uasset'
+[2025.01.21-15.44.17:727][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 209.263 ms (total: 14.5 sec)
+[2025.01.21-15.44.17:878][671]LogContentValidation: Display: Starting to validate 4 assets
+[2025.01.21-15.44.17:878][671]LogContentValidation: Enabled validators:
+[2025.01.21-15.44.17:878][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-15.44.17:878][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-15.44.17:878][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-15.44.17:878][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-15.44.17:878][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-15.44.17:878][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-15.44.17:878][671]AssetCheck: /Game/ProtoDev/Character/BP_BubbleCharacter Validating asset
+[2025.01.21-15.44.17:878][671]AssetCheck: /Game/ProtoDev/Material/M_DebuffSpeed Validating asset
+[2025.01.21-15.44.17:878][671]AssetCheck: /Game/ProtoDev/Material/M_BuffSpeed Validating asset
+[2025.01.21-15.44.17:878][671]AssetCheck: /Game/ProtoDev/Material/MI_Death Validating asset
+[2025.01.21-15.44.29:917][380]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.21-15.44.52:388][712]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.21-15.44.52:394][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.21-15.44.52:435][712]LogPlayLevel: Display: Creating online subsystem for client :Context_103
+[2025.01.21-15.44.52:438][712]LogOnline: OSS: Created online subsystem instance for: :Context_103
+[2025.01.21-15.44.52:467][713]LogPlayLevel: Creating play world package: /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-15.44.52:469][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002526s)
+[2025.01.21-15.44.52:469][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProtoDev/Maps/Prototype.Prototype to /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype (0.002578s)
+[2025.01.21-15.44.52:489][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.21-15.44.52:496][713]LogChaosDD: Creating Chaos Debug Draw Scene for world Prototype
+[2025.01.21-15.44.52:497][713]LogPlayLevel: PIE: World Init took: (0.001583s)
+[2025.01.21-15.44.52:498][713]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2025.01.21-15.44.52:498][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.21-15.44.52:498][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.21-15.44.52:498][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.21-15.44.52:498][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.21-15.44.52:498][713]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.21-15.44.52:498][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.21-15.44.52:498][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.21-15.44.52:498][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.21-15.44.52:498][713]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.21-15.44.52:498][713]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.21-15.44.52:498][713]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.21-15.44.52:501][713]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.21-15.44.52:639][713]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.01.21-15.44.52:639][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.21-15.44.52:639][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.21-15.44.52:639][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.21-15.44.52:640][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2025.01.21-15.44.52:640][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2025.01.21-15.44.52:642][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2025.01.21-15.44.52:642][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2025.01.21-15.44.52:642][713]LogInit: FAudioDevice initialized with ID 71.
+[2025.01.21-15.44.52:642][713]LogAudio: Display: Audio Device (ID: 71) registered with world 'Prototype'.
+[2025.01.21-15.44.52:642][713]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2025.01.21-15.44.52:650][713]LogLoad: Game class is 'GM_Bubble_C'
+[2025.01.21-15.44.52:651][713]LogWorld: Bringing World /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 60) at 2025.01.21-16.44.52
+[2025.01.21-15.44.52:652][713]LogWorld: Bringing up level for play took: 0.000978
+[2025.01.21-15.44.52:655][713]PIE: Server logged in
+[2025.01.21-15.44.52:656][713]PIE: Play in editor total start time 0,262 seconds.
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: ================================================
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Total job queries 12 036, among them cache hits 215 (1.79%), DDC hits 0 (0.00%), Duplicates 2 682 (22.28%)
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Tracking 9 139 distinct input hashes that result in 8 583 distinct outputs (93.92%)
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: RAM used: 6,39 MiB of 819,20 MiB budget. Usage: 0.78%
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Shaders Compiled: 9 139
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Jobs assigned 9 139, completed 9 139 (100%)
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Average time worker was idle: 71.65 s
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Time job spent in pending queue: average 267.25 s, longest 550.71 s
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Job execution time: average 4.98 s, max 90.95 s
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Job life time (pending + execution): average 272.24 s, max 551.47
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Shader code size: average 14,165 KiB, min 1,16 KiB, max 330,049 KiB
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 638.33 s
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.32%
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Jobs were issued in 1 162 batches (only local compilation was used), average 7.86 jobs/batch
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Average processing rate: 14.32 jobs/sec
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Total thread time: 4 647,867 s
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Total thread preprocess time: 121,046 s
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Percentage time preprocessing: 2.60%
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Effective parallelization: 7.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 22.39 sec, max 80.44 sec, min 0.88 sec)
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 14.28 sec, max 14.28 sec, min 14.28 sec)
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 7.37 sec, max 10.07 sec, min 4.37 sec)
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 3.77 sec, max 8.50 sec, min 1.23 sec)
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.92 sec, max 2.92 sec, min 2.92 sec)
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display:                                             FDeferredLightPS - 14.16% of total time (compiled  454 times, average 1.45 sec, max 2.89 sec, min 0.96 sec)
+[2025.01.21-15.44.54:005][789]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 13.00% of total time (compiled   27 times, average 22.39 sec, max 80.44 sec, min 0.88 sec)
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 10.10% of total time (compiled  260 times, average 1.81 sec, max 4.74 sec, min 0.00 sec)
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.85% of total time (compiled  480 times, average 0.47 sec, max 3.35 sec, min 0.19 sec)
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 3.65% of total time (compiled   72 times, average 2.36 sec, max 3.85 sec, min 1.61 sec)
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display: === Material stats ===
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display: Materials Translated:    201
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display: Material Translation Only: 0.07 s (41%)
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.21-15.44.54:006][789]LogShaderCompilers: Display: ================================================
+[2025.01.21-15.44.58:373][ 51]LogBlueprintUserMessages: [BP_BubbleCharacter_C_0] 1.0
+[2025.01.21-15.44.58:374][ 51]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.44.59:087][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-15.44.59:087][ 92]LogWorld: BeginTearingDown for /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-15.44.59:087][ 92]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.44.59:087][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.44.59:092][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.21-15.44.59:098][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.44.59:116][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-15.44.59:116][ 92]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2025.01.21-15.44.59:116][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.01.21-15.44.59:118][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.01.21-15.44.59:127][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.21-15.44.59:193][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2025.01.21-15.47.40:480][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.21-15.47.40:485][901]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProtoDev/Maps/Prototype' took 0.034
+[2025.01.21-15.47.40:486][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProtoDev/Material/MI_Death] ([1] browsable assets)...
+[2025.01.21-15.47.40:529][901]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ProtoDev/Material/MI_Death.MI_Death]
+[2025.01.21-15.47.40:529][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Material/MI_Death]
+[2025.01.21-15.47.40:550][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.01.21-15.47.40:574][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.21-15.47.40:579][901]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ProtoDev/Material/MI_Death_Auto0
+[2025.01.21-15.47.40:579][901]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/MI_Death_Auto06BE60E7D4133EC268B39149C0C400634.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/Autosaves/Game/ProtoDev/Material/MI_Death_Auto0.uasset'
+[2025.01.21-15.47.40:580][901]LogFileHelpers: Auto-saving content packages took 0.094
+[2025.01.21-15.49.39:155][623]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11466.952148
+[2025.01.21-15.49.40:155][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.21-15.49.40:155][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11467.623047, Update Interval: 333.886536
+[2025.01.21-15.50.42:094][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.01.21-15.50.43:288][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-15.50.43:405][334]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ProtoDev/GameMode/GM_Bubble] ([2] browsable assets)...
+[2025.01.21-15.50.43:406][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/GameMode/GM_Bubble]
+[2025.01.21-15.50.43:406][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProtoDev/GameMode/GM_Bubble" FILE="../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/GameMode/GM_Bubble.uasset" SILENT=true
+[2025.01.21-15.50.43:408][334]LogSavePackage: Moving output files for package: /Game/ProtoDev/GameMode/GM_Bubble
+[2025.01.21-15.50.43:408][334]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/GM_BubbleC29F10664FA4BFAB601FAD85B35CE99A.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/GameMode/GM_Bubble.uasset'
+[2025.01.21-15.50.43:419][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.126 ms (total: 14.6 sec)
+[2025.01.21-15.50.43:568][334]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.21-15.50.43:568][334]LogContentValidation: Enabled validators:
+[2025.01.21-15.50.43:568][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-15.50.43:568][334]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-15.50.43:568][334]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-15.50.43:568][334]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-15.50.43:568][334]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-15.50.43:568][334]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-15.50.43:568][334]AssetCheck: /Game/ProtoDev/GameMode/GM_Bubble Validating asset
+[2025.01.21-15.50.47:512][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.21-15.50.47:520][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-15.50.47:632][564]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ProtoDev/Material/MI_Death] ([1] browsable assets)...
+[2025.01.21-15.50.47:632][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Material/MI_Death]
+[2025.01.21-15.50.47:632][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProtoDev/Material/MI_Death" FILE="../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/MI_Death.uasset" SILENT=true
+[2025.01.21-15.50.47:653][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.21-15.50.47:678][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.21-15.50.47:683][564]LogSavePackage: Moving output files for package: /Game/ProtoDev/Material/MI_Death
+[2025.01.21-15.50.47:683][564]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/MI_Death84BFFE104219CD6058ED0BAAC1C5FABE.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/MI_Death.uasset'
+[2025.01.21-15.50.47:695][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.442 ms (total: 14.8 sec)
+[2025.01.21-15.50.47:851][564]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.21-15.50.47:851][564]LogContentValidation: Enabled validators:
+[2025.01.21-15.50.47:851][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-15.50.47:851][564]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-15.50.47:851][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-15.50.47:851][564]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-15.50.47:851][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-15.50.47:851][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-15.50.47:851][564]AssetCheck: /Game/ProtoDev/Material/MI_Death Validating asset
+[2025.01.21-15.50.51:618][776]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.50.53:102][865]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.50.53:826][907]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.50.53:958][915]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.50.54:758][963]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.50.55:109][984]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.50.56:463][ 64]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.50.56:614][ 73]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.51.08:291][763]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.21-15.51.08:297][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.21-15.51.08:298][763]LogPlayLevel: Display: Creating online subsystem for client :Context_104
+[2025.01.21-15.51.08:301][763]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2025.01.21-15.51.08:330][764]LogPlayLevel: Creating play world package: /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-15.51.08:333][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002459s)
+[2025.01.21-15.51.08:333][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProtoDev/Maps/Prototype.Prototype to /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype (0.002514s)
+[2025.01.21-15.51.08:353][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.01.21-15.51.08:359][764]LogChaosDD: Creating Chaos Debug Draw Scene for world Prototype
+[2025.01.21-15.51.08:360][764]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2025.01.21-15.51.08:361][764]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2025.01.21-15.51.08:361][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.21-15.51.08:361][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.21-15.51.08:361][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.21-15.51.08:361][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.21-15.51.08:361][764]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.21-15.51.08:361][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.21-15.51.08:361][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.21-15.51.08:361][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.21-15.51.08:361][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.21-15.51.08:361][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.21-15.51.08:361][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.21-15.51.08:363][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.21-15.51.08:502][764]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.01.21-15.51.08:503][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.21-15.51.08:503][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.21-15.51.08:503][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.21-15.51.08:503][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2025.01.21-15.51.08:503][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2025.01.21-15.51.08:506][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2025.01.21-15.51.08:506][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2025.01.21-15.51.08:506][764]LogInit: FAudioDevice initialized with ID 72.
+[2025.01.21-15.51.08:506][764]LogAudio: Display: Audio Device (ID: 72) registered with world 'Prototype'.
+[2025.01.21-15.51.08:506][764]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 72
+[2025.01.21-15.51.08:509][764]LogLoad: Game class is 'GM_Bubble_C'
+[2025.01.21-15.51.08:510][764]LogWorld: Bringing World /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 60) at 2025.01.21-16.51.08
+[2025.01.21-15.51.08:510][764]LogWorld: Bringing up level for play took: 0.000830
+[2025.01.21-15.51.08:513][764]PIE: Server logged in
+[2025.01.21-15.51.08:514][764]PIE: Play in editor total start time 0,216 seconds.
+[2025.01.21-15.51.14:245][102]LogBlueprintUserMessages: [BP_BubbleCharacter_C_0] 1.0
+[2025.01.21-15.51.14:246][102]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-15.51.14:859][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-15.51.14:859][137]LogWorld: BeginTearingDown for /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-15.51.14:859][137]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-15.51.14:860][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.51.14:864][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.21-15.51.14:870][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-15.51.14:888][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-15.51.14:888][137]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 72
+[2025.01.21-15.51.14:888][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.01.21-15.51.14:891][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.01.21-15.51.14:900][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.21-15.51.14:965][138]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2025.01.21-15.52.37:082][657]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.01.21-15.53.31:793][884]LogBlueprint: Error: [AssetLog] C:\Users\perso\Desktop\GameJamBubbles2025\BubbleUp\Content\ProtoDev\Character\BP_BubbleCharacter.uasset: [Compiler] The current value of the ' Context ' pin is invalid: 'Context' in action 'GetDeltaTime' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.01.21-15.53.31:830][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.01.21-15.53.40:266][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.21-15.53.40:878][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-15.53.40:988][401]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ProtoDev/Character/BP_BubbleCharacter] ([2] browsable assets)...
+[2025.01.21-15.53.41:033][401]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ProtoDev/Character/BP_BubbleCharacter.BP_BubbleCharacter]
+[2025.01.21-15.53.41:033][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Character/BP_BubbleCharacter]
+[2025.01.21-15.53.41:043][401]LogSavePackage: Moving output files for package: /Game/ProtoDev/Character/BP_BubbleCharacter
+[2025.01.21-15.53.41:043][401]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/BP_BubbleCharacterC4BFFB004346AEF916B6388FAD7E3150.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Character/BP_BubbleCharacter.uasset'
+[2025.01.21-15.53.41:053][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.367 ms (total: 14.9 sec)
+[2025.01.21-15.53.41:208][401]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.21-15.53.41:208][401]LogContentValidation: Enabled validators:
+[2025.01.21-15.53.41:208][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-15.53.41:208][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-15.53.41:208][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-15.53.41:208][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-15.53.41:208][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-15.53.41:208][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-15.53.41:208][401]AssetCheck: /Game/ProtoDev/Character/BP_BubbleCharacter Validating asset
+[2025.01.21-15.54.25:985][136]LogContentBrowser: Deferred new asset file creation: M_BuffSpeed_Inst
+[2025.01.21-15.54.25:996][136]LogContentBrowser: Creating deferred item: M_BuffSpeed_Inst
+[2025.01.21-15.54.26:014][137]LogContentBrowser: Renaming the item being created (Deferred Item: M_BuffSpeed_Inst).
+[2025.01.21-15.54.32:157][505]LogContentBrowser: Attempting asset rename: M_BuffSpeed_Inst -> MI_PollutionCloud
+[2025.01.21-15.54.32:158][505]LogContentBrowser: End creating deferred item M_BuffSpeed_Inst
+[2025.01.21-15.54.35:059][675]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ProtoDev/Material/MI_PollutionCloud.MI_PollutionCloud
+[2025.01.21-15.54.35:061][675]LogChaosDD: Creating Chaos Debug Draw Scene for world World_37
+[2025.01.21-15.54.52:161][663]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.21-15.54.57:919][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.01.21-15.54.57:931][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-15.54.58:029][998]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProtoDev/Material/MI_PollutionCloud] ([1] browsable assets)...
+[2025.01.21-15.54.58:049][998]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ProtoDev/Material/MI_PollutionCloud.MI_PollutionCloud]
+[2025.01.21-15.54.58:049][998]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Material/MI_PollutionCloud]
+[2025.01.21-15.54.58:068][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.01.21-15.54.58:092][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.21-15.54.58:097][998]LogSavePackage: Moving output files for package: /Game/ProtoDev/Material/MI_PollutionCloud
+[2025.01.21-15.54.58:097][998]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/MI_PollutionCloudE1BCAE4E4B03A4BFADCA87B8149AC99C.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Material/MI_PollutionCloud.uasset'
+[2025.01.21-15.54.58:113][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.717 ms (total: 15.1 sec)
+[2025.01.21-15.54.58:258][998]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.21-15.54.58:258][998]LogContentValidation: Enabled validators:
+[2025.01.21-15.54.58:258][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-15.54.58:258][998]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-15.54.58:258][998]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-15.54.58:258][998]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-15.54.58:258][998]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-15.54.58:258][998]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-15.54.58:258][998]AssetCheck: /Game/ProtoDev/Material/MI_PollutionCloud Validating asset
+[2025.01.21-15.55.51:420][165]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11839.008789
+[2025.01.21-15.55.51:569][174]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.21-15.55.51:569][174]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11839.141602, Update Interval: 304.773712
+[2025.01.21-15.57.08:391][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.01.21-15.57.08:867][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-15.57.08:973][ 95]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ProtoDev/Character/BP_BubbleCharacter] ([2] browsable assets)...
+[2025.01.21-15.57.09:016][ 95]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ProtoDev/Character/BP_BubbleCharacter.BP_BubbleCharacter]
+[2025.01.21-15.57.09:016][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Character/BP_BubbleCharacter]
+[2025.01.21-15.57.09:027][ 95]LogSavePackage: Moving output files for package: /Game/ProtoDev/Character/BP_BubbleCharacter
+[2025.01.21-15.57.09:028][ 95]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/BP_BubbleCharacterBE3679D84ADEC3C05ED02F9B6E77D7EF.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Character/BP_BubbleCharacter.uasset'
+[2025.01.21-15.57.09:043][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.211 ms (total: 15.3 sec)
+[2025.01.21-15.57.09:191][ 95]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.21-15.57.09:191][ 95]LogContentValidation: Enabled validators:
+[2025.01.21-15.57.09:191][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-15.57.09:191][ 95]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-15.57.09:191][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-15.57.09:191][ 95]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-15.57.09:191][ 95]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-15.57.09:191][ 95]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-15.57.09:191][ 95]AssetCheck: /Game/ProtoDev/Character/BP_BubbleCharacter Validating asset
+[2025.01.21-15.57.30:492][272]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.01.21-15.57.30:501][272]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.01.21-15.57.30:510][272]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.01.21-15.57.30:525][273]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.01.21-15.57.36:620][638]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PollutionCLoud
+[2025.01.21-15.57.36:644][638]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.01.21-15.57.38:442][744]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud
+[2025.01.21-15.57.38:443][744]LogChaosDD: Creating Chaos Debug Draw Scene for world World_38
+[2025.01.21-15.57.45:308][128]LogChaosDD: Creating Chaos Debug Draw Scene for world World_39
+[2025.01.21-15.58.10:005][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.01.21-15.59.05:643][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.01.21-16.00.15:608][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.21-16.00.16:420][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-16.00.16:524][460]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ProtoDev/Obstacles/BP_PollutionCLoud] ([2] browsable assets)...
+[2025.01.21-16.00.16:561][460]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud]
+[2025.01.21-16.00.16:561][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Obstacles/BP_PollutionCLoud]
+[2025.01.21-16.00.16:566][460]LogSavePackage: Moving output files for package: /Game/ProtoDev/Obstacles/BP_PollutionCLoud
+[2025.01.21-16.00.16:566][460]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/BP_PollutionCLoud5785AD974784A97C07958687002481A1.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Obstacles/BP_PollutionCLoud.uasset'
+[2025.01.21-16.00.16:580][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.419 ms (total: 15.4 sec)
+[2025.01.21-16.00.16:731][460]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.21-16.00.16:731][460]LogContentValidation: Enabled validators:
+[2025.01.21-16.00.16:731][460]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-16.00.16:731][460]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-16.00.16:731][460]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-16.00.16:731][460]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-16.00.16:731][460]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-16.00.16:731][460]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-16.00.16:731][460]AssetCheck: /Game/ProtoDev/Obstacles/BP_PollutionCLoud Validating asset
+[2025.01.21-16.00.54:850][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.01.21-16.00.54:863][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-16.00.54:985][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.01.21-16.00.54:996][396]LogSavePackage: Moving output files for package: /Game/ProtoDev/Maps/Prototype
+[2025.01.21-16.00.54:996][396]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/PrototypeA615E23C46B4B307831553BEB0B57BC9.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Maps/Prototype.umap'
+[2025.01.21-16.00.55:005][396]LogFileHelpers: Saving map 'Prototype' took 0.046
+[2025.01.21-16.00.55:005][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ProtoDev/Obstacles/BP_PollutionCLoud] ([2] browsable assets)...
+[2025.01.21-16.00.55:005][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProtoDev/Obstacles/BP_PollutionCLoud]
+[2025.01.21-16.00.55:009][396]LogSavePackage: Moving output files for package: /Game/ProtoDev/Obstacles/BP_PollutionCLoud
+[2025.01.21-16.00.55:010][396]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/BP_PollutionCLoudB38528A94CFEEEDFC0E28890ADC4A25E.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Obstacles/BP_PollutionCLoud.uasset'
+[2025.01.21-16.00.55:020][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.917 ms (total: 15.6 sec)
+[2025.01.21-16.00.55:175][396]LogContentValidation: Display: Starting to validate 2 assets
+[2025.01.21-16.00.55:175][396]LogContentValidation: Enabled validators:
+[2025.01.21-16.00.55:175][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-16.00.55:175][396]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-16.00.55:175][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-16.00.55:175][396]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-16.00.55:175][396]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-16.00.55:175][396]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-16.00.55:176][396]AssetCheck: /Game/ProtoDev/Maps/Prototype Validating asset
+[2025.01.21-16.00.55:176][396]AssetCheck: /Game/ProtoDev/Obstacles/BP_PollutionCLoud Validating asset
+[2025.01.21-16.00.58:159][560]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud_C
+[2025.01.21-16.00.58:159][560]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud_C
+[2025.01.21-16.00.58:161][560]LogActorFactory: Actor Factory spawned Blueprint /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud as actor: BP_PollutionCLoud_C /Game/ProtoDev/Maps/Prototype.Prototype:PersistentLevel.BP_PollutionCLoud_C_0
+[2025.01.21-16.00.58:162][560]LogActorFactory: Actor Factory spawned Blueprint /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud as actor: BP_PollutionCLoud_C /Game/ProtoDev/Maps/Prototype.Prototype:PersistentLevel.BP_PollutionCLoud_C_0
+[2025.01.21-16.00.58:442][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.01.21-16.00.58:446][572]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.01.21-16.00.58:450][572]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud_C
+[2025.01.21-16.00.58:451][572]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud_C
+[2025.01.21-16.00.58:453][572]LogActorFactory: Actor Factory spawned Blueprint /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud as actor: BP_PollutionCLoud_C /Game/ProtoDev/Maps/Prototype.Prototype:PersistentLevel.BP_PollutionCLoud_C_1
+[2025.01.21-16.00.58:454][572]LogActorFactory: Actor Factory spawned Blueprint /Game/ProtoDev/Obstacles/BP_PollutionCLoud.BP_PollutionCLoud as actor: BP_PollutionCLoud_C /Game/ProtoDev/Maps/Prototype.Prototype:PersistentLevel.BP_PollutionCLoud_C_1
+[2025.01.21-16.01.31:894][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12179.371094
+[2025.01.21-16.01.32:059][544]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.21-16.01.32:059][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12179.521484, Update Interval: 336.519653
+[2025.01.21-16.01.32:099][547]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.21-16.01.32:106][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.21-16.01.32:139][547]LogPlayLevel: Display: Creating online subsystem for client :Context_108
+[2025.01.21-16.01.32:141][547]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2025.01.21-16.01.32:175][548]LogPlayLevel: Creating play world package: /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-16.01.32:177][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002816s)
+[2025.01.21-16.01.32:177][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProtoDev/Maps/Prototype.Prototype to /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype (0.002862s)
+[2025.01.21-16.01.32:201][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.21-16.01.32:207][548]LogChaosDD: Creating Chaos Debug Draw Scene for world Prototype
+[2025.01.21-16.01.32:209][548]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2025.01.21-16.01.32:209][548]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2025.01.21-16.01.32:209][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.21-16.01.32:209][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.21-16.01.32:209][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.21-16.01.32:209][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.21-16.01.32:210][548]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.21-16.01.32:210][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.21-16.01.32:210][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.21-16.01.32:210][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.21-16.01.32:210][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.21-16.01.32:210][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.21-16.01.32:210][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.21-16.01.32:212][548]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.21-16.01.32:356][548]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.01.21-16.01.32:357][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.21-16.01.32:357][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.21-16.01.32:357][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.21-16.01.32:358][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2025.01.21-16.01.32:358][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2025.01.21-16.01.32:360][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2025.01.21-16.01.32:360][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2025.01.21-16.01.32:360][548]LogInit: FAudioDevice initialized with ID 73.
+[2025.01.21-16.01.32:360][548]LogAudio: Display: Audio Device (ID: 73) registered with world 'Prototype'.
+[2025.01.21-16.01.32:360][548]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2025.01.21-16.01.32:363][548]LogLoad: Game class is 'GM_Bubble_C'
+[2025.01.21-16.01.32:364][548]LogWorld: Bringing World /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 60) at 2025.01.21-17.01.32
+[2025.01.21-16.01.32:364][548]LogWorld: Bringing up level for play took: 0.000843
+[2025.01.21-16.01.32:366][548]PIE: Server logged in
+[2025.01.21-16.01.32:368][548]PIE: Play in editor total start time 0,261 seconds.
+[2025.01.21-16.01.40:884][ 44]LogBlueprintUserMessages: [BP_BubbleCharacter_C_0] 1.0
+[2025.01.21-16.01.40:886][ 44]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-16.01.41:500][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-16.01.41:500][ 78]LogWorld: BeginTearingDown for /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-16.01.41:500][ 78]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-16.01.41:500][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-16.01.41:505][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.21-16.01.41:511][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-16.01.41:531][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.21-16.01.41:531][ 78]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2025.01.21-16.01.41:531][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.01.21-16.01.41:533][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.01.21-16.01.41:540][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-16.01.41:542][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.01.21-16.01.41:607][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2025.01.21-16.01.45:052][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.01.21-16.01.45:058][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.21-16.01.45:246][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.01.21-16.01.45:258][280]LogSavePackage: Moving output files for package: /Game/ProtoDev/Maps/Prototype
+[2025.01.21-16.01.45:259][280]LogSavePackage: Moving '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Saved/PrototypeFF16524A4B564F0F339891AE3B89E745.tmp' to '../../../../../../Users/perso/Desktop/GameJamBubbles2025/BubbleUp/Content/ProtoDev/Maps/Prototype.umap'
+[2025.01.21-16.01.45:267][280]LogFileHelpers: Saving map 'Prototype' took 0.051
+[2025.01.21-16.01.45:280][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 222.445 ms (total: 15.8 sec)
+[2025.01.21-16.01.45:426][280]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.21-16.01.45:426][280]LogContentValidation: Enabled validators:
+[2025.01.21-16.01.45:426][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.21-16.01.45:426][280]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.21-16.01.45:426][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.21-16.01.45:426][280]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.21-16.01.45:426][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.21-16.01.45:426][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.21-16.01.45:426][280]AssetCheck: /Game/ProtoDev/Maps/Prototype Validating asset
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: ================================================
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Total job queries 12 051, among them cache hits 215 (1.78%), DDC hits 0 (0.00%), Duplicates 2 682 (22.26%)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Tracking 9 154 distinct input hashes that result in 8 591 distinct outputs (93.85%)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: RAM used: 6,39 MiB of 819,20 MiB budget. Usage: 0.78%
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Shaders Compiled: 9 154
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Jobs assigned 9 154, completed 9 154 (100%)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Average time worker was idle: 74.96 s
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Time job spent in pending queue: average 266.81 s, longest 550.71 s
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Job execution time: average 4.98 s, max 90.95 s
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Job life time (pending + execution): average 271.79 s, max 551.47
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Shader code size: average 14,154 KiB, min 1,16 KiB, max 330,049 KiB
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 644.61 s
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.32%
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Jobs were issued in 1 177 batches (only local compilation was used), average 7.78 jobs/batch
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Average processing rate: 14.20 jobs/sec
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Total thread time: 4 653,979 s
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Total thread preprocess time: 121,369 s
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Percentage time preprocessing: 2.61%
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Effective parallelization: 7.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 22.39 sec, max 80.44 sec, min 0.88 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 14.28 sec, max 14.28 sec, min 14.28 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 7.37 sec, max 10.07 sec, min 4.37 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 3.77 sec, max 8.50 sec, min 1.23 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.92 sec, max 2.92 sec, min 2.92 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                                             FDeferredLightPS - 14.15% of total time (compiled  454 times, average 1.45 sec, max 2.89 sec, min 0.96 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 12.99% of total time (compiled   27 times, average 22.39 sec, max 80.44 sec, min 0.88 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 10.09% of total time (compiled  260 times, average 1.81 sec, max 4.74 sec, min 0.00 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.84% of total time (compiled  480 times, average 0.47 sec, max 3.35 sec, min 0.19 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 3.64% of total time (compiled   72 times, average 2.36 sec, max 3.85 sec, min 1.61 sec)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: === Material stats ===
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Materials Translated:    201
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Material Translation Only: 0.07 s (41%)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.01.21-16.02.54:410][501]LogShaderCompilers: Display: ================================================
+[2025.01.21-16.03.26:602][712]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.21-16.03.26:610][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.21-16.03.26:636][712]LogPlayLevel: Display: Creating online subsystem for client :Context_109
+[2025.01.21-16.03.26:638][712]LogOnline: OSS: Created online subsystem instance for: :Context_109
+[2025.01.21-16.03.26:675][713]LogPlayLevel: Creating play world package: /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-16.03.26:678][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002615s)
+[2025.01.21-16.03.26:678][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProtoDev/Maps/Prototype.Prototype to /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype (0.002696s)
+[2025.01.21-16.03.26:699][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.01.21-16.03.26:704][713]LogChaosDD: Creating Chaos Debug Draw Scene for world Prototype
+[2025.01.21-16.03.26:706][713]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2025.01.21-16.03.26:707][713]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2025.01.21-16.03.26:707][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.21-16.03.26:707][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.21-16.03.26:707][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.21-16.03.26:707][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.21-16.03.26:707][713]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.21-16.03.26:707][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.21-16.03.26:707][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.21-16.03.26:707][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.21-16.03.26:707][713]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.21-16.03.26:707][713]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.21-16.03.26:707][713]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.21-16.03.26:709][713]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.21-16.03.26:852][713]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.01.21-16.03.26:852][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.21-16.03.26:852][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.21-16.03.26:852][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.21-16.03.26:854][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=74
+[2025.01.21-16.03.26:854][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=74
+[2025.01.21-16.03.26:856][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=74
+[2025.01.21-16.03.26:856][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=74
+[2025.01.21-16.03.26:856][713]LogInit: FAudioDevice initialized with ID 74.
+[2025.01.21-16.03.26:856][713]LogAudio: Display: Audio Device (ID: 74) registered with world 'Prototype'.
+[2025.01.21-16.03.26:856][713]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 74
+[2025.01.21-16.03.26:860][713]LogLoad: Game class is 'GM_Bubble_C'
+[2025.01.21-16.03.26:861][713]LogWorld: Bringing World /Game/ProtoDev/Maps/UEDPIE_0_Prototype.Prototype up for play (max tick rate 60) at 2025.01.21-17.03.26
+[2025.01.21-16.03.26:861][713]LogWorld: Bringing up level for play took: 0.000857
+[2025.01.21-16.03.26:863][713]PIE: Server logged in
+[2025.01.21-16.03.26:864][713]PIE: Play in editor total start time 0,255 seconds.
+[2025.01.21-16.03.35:443][209]LogBlueprintUserMessages: [BP_BubbleCharacter_C_0] 1.0
+[2025.01.21-16.03.35:444][209]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.01.21-16.03.36:056][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-16.03.36:056][244]LogWorld: BeginTearingDown for /Game/ProtoDev/Maps/UEDPIE_0_Prototype
+[2025.01.21-16.03.36:057][244]LogWorld: UWorld::CleanupWorld for Prototype, bSessionEnded=true, bCleanupResources=true
+[2025.01.21-16.03.36:057][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-16.03.36:061][244]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.21-16.03.36:065][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.21-16.03.36:086][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.21-16.03.36:086][244]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 74
+[2025.01.21-16.03.36:086][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2025.01.21-16.03.36:088][244]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2025.01.21-16.03.36:099][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.01.21-16.03.36:165][245]LogPlayLevel: Display: Destroying online subsystem :Context_109
